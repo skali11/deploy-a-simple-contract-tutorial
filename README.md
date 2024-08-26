@@ -1,4 +1,2 @@
 
-    ```sh
-    chmod +x name.sh && ./name.sh
-    ```
+    ```sh chmod +x name.sh && ./name.sh```
